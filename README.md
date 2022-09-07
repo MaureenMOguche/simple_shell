@@ -1,5 +1,5 @@
-<h1>Simple_shell</h1>
-<img width="260" height="270" src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-File.png">
+<h1 align="center">Simple_shell</h1>
+<p align="center"><img width="260" height="270" src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-File.png"></p>
 
 
 ## simple_shell
