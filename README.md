@@ -1,11 +1,11 @@
 <h1>Simple_shell</h1>
-<img width="260" height="270" src="https://www.pngall.com/linux-png">
+<img width="260" height="270" src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-File.png">
 
 
-##simple_shell
+## simple_shell
 This repository contains files written in C programming language that when compiled simulates a basic **Unix Shell**.
 
-###The shell provides the following features:
+### The shell provides the following features:
 
 * Displays a prompt and wait for the user to type a command. A command line always ends with a new line.
 * The prompt is displayed again each time a command has been executed.
